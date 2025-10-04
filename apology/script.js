@@ -29,3 +29,4 @@ yesBtn.addEventListener("click", () => {
         msg.remove();
     }, 3000); // disappear after 3s
 });
+
